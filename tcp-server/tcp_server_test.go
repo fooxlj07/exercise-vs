@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 	"time"
-	"vadesecure/tcp-server/mocks"
+	"vs-exercise/tcp-server/mocks"
 
 	"github.com/stretchr/testify/assert"
 
